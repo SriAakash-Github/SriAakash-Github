@@ -5,11 +5,19 @@ I love exploring new technologies and turning ideas into real-world applications
 
 ---
 
+## 🚀 Check out my Portfolio  
+🌐 [**sriaakash.netlify.app**](https://sriaakash.netlify.app/)  
+
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sriaakash.netlify.app/)
+
+---
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ixwrath) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wrathfps) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-aakash-) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sriaakash@yahoo.com) 
+
 
 ---
 
